@@ -2,8 +2,8 @@ import styled from "styled-components";
 import ImgFooter from './../assets/img/logo-footer.png'
 
 const FooterContainer = styled.footer`
-   background-color: #f8f9b3;
-   border-top: 3px solid #a98d1da8; 
+   background: linear-gradient(180deg,#9c821ea9, #f8f9b3);
+   border-top: 3px solid #564504a8; 
     padding: 3rem 0;
     display: flex;
     justify-content: center;

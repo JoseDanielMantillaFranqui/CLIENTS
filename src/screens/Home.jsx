@@ -9,7 +9,7 @@ flex-direction: column;
 align-items: center;
 justify-content: center;
 width: 100%;
-background-color: #f8f9b3;
+background: linear-gradient(180deg,#f8f9b3, #9c821ea9);
 padding: 14rem 0;
 gap: 4rem;
 `
