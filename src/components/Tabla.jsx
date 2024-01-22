@@ -125,7 +125,7 @@ const ImgClienteFullScreen = styled.img`
   aspect-ratio: 5/5;
 
   @media screen and (max-width:480px) {
-    width: 70%;
+    width: 85%;
   }
 `
 
